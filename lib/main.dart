@@ -10,7 +10,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-  // widget principal n'aant pas d'etat
+  // widget principal n'nayant pas d'etat
 
   @override
   Widget build(BuildContext context) {
